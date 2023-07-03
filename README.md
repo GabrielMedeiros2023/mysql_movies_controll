@@ -1,4 +1,4 @@
-# Movies_Controll_MySQL
+# Movies_Controll
 
 Projeto de banco de dados para controle de filmes e series assistidos. 
 
