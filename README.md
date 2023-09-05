@@ -1,6 +1,6 @@
 # Movies_Controll
 
-Projeto de banco de dados para controle de filmes e series assistidos. 
+Projeto básico de banco de dados para controle de filmes e series assistidos. 
 
 Objetivo: Demonstrar meus conhecimentos em linguagem sql e procedural.
 
