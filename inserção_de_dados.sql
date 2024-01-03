@@ -13,7 +13,7 @@ insert into movies (type, name, genre, streaming_platforms, total_ep, atual_ep, 
     
 
 insert into movies (type, name, genre, streaming_platforms, last_view) 
-	values (1, 'Atavar 2', 'Ficção científica/Action','Disney+', current_timestamp());
+	values (1, 'Avatar 2', 'Ficção científica/Action','Disney+', current_timestamp());
 
     insert into movies (type, name, genre, streaming_platforms, last_view) 
 	values (1, 'Blade Runner 2049', 'Ficção científica','Netflix', current_timestamp());
